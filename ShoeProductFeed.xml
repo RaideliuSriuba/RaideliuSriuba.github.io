@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Feed name="ClientName" extractDate="2018-12-21T13:53:40+02:00" incremental="false" xmlns="http://www.bazaarvoice.com/xs/PRR/ProductFeed/14.7">
+    <Brands>
+        <Brand>
+            <ExternalId>B-1</ExternalId>
+            <Name>Downy</Name>
+        </Brand>
+    </Brands>
+        <Categories>
+        <Category>
+            <ExternalId>C-1</ExternalId>
+            <Name>Shoes</Name>
+            <CategoryPageUrl>https://raideliusriuba.github.io/shop.html</CategoryPageUrl>
+        </Category>
+    </Categories>
+      <Products>
+        <Product>
+            <ExternalId>P-1</ExternalId>
+            <Name>Bella Toes</Name>
+            <Description>Star pattern sneaker</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>https://raideliusriuba.github.io/single.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/s1.jpg</ImageUrl>
+            <UPCs>
+                <UPC>123456</UPC>
+            </UPCs>
+        </Product>
+        <Product>
+            <ExternalId>P-2</ExternalId>
+            <Name>Chikku Loafers</Name>
+            <Description>Brown loafer</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>https://raideliusriuba.github.io/single.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/s2.jpg</ImageUrl>
+            <UPCs>
+                <UPC>223456</UPC>
+            </UPCs>
+        </Product>
+        <Product>
+            <ExternalId>P-3</ExternalId>
+            <Name>SRV Sneakers</Name>
+            <Description>Blue sneaker</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>http://example.com/1349e.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/s3.jpg</ImageUrl>
+            <UPCs>
+                <UPC>323456</UPC>
+            </UPCs>
+        </Product>
+        <Product>
+            <ExternalId>P-4</ExternalId>
+            <Name>Catwalk Flats</Name>
+            <Description>Flat sandals</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>ttps://raideliusriuba.github.io/single.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/s6.jpg</ImageUrl>
+            <UPCs>
+                <UPC>423456</UPC>
+            </UPCs>
+        </Product>
+        <Product>
+            <ExternalId>P-5</ExternalId>
+            <Name>Shuberry Heels</Name>
+            <Description>White toe heels</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>https://raideliusriuba.github.io/single.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/s4.jpg</ImageUrl>
+            <UPCs>
+                <UPC>523456</UPC>
+            </UPCs>
+        </Product>
+        <Product>
+            <ExternalId>P-6</ExternalId>
+            <Name>Red Bellies</Name>
+            <Description>Red flat sole shoe</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>https://raideliusriuba.github.io/single.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/s5.jpg</ImageUrl>
+            <UPCs>
+                <UPC>623456</UPC>
+            </UPCs>
+            
+        </Product>
+        <Product>
+            <ExternalId>P-7</ExternalId>
+            <Name>Running Shoes</Name>
+            <Description>Navy running shoe</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>https://raideliusriuba.github.io/single.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/s7.jpg</ImageUrl>
+            <UPCs>
+                <UPC>723456</UPC>
+            </UPCs>
+        </Product>
+        <Product>
+            <ExternalId>P-8</ExternalId>
+            <Name>Sukun Casuals</Name>
+            <Description>Faux leather shoe</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>https://raideliusriuba.github.io/single.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/s8.jpg</ImageUrl>
+            <UPCs>
+                <UPC>823456</UPC>
+            </UPCs>
+        </Product>
+        <Product>
+            <ExternalId>P-9</ExternalId>
+            <Name>Bank Sneakers</Name>
+            <Description>Leisure shoe</Description>
+            <CategoryExternalId>C-1</CategoryExternalId>
+            <ProductPageUrl>https://raideliusriuba.github.io/single.html</ProductPageUrl>
+            <ImageUrl>https://github.com/RaideliuSriuba/RaideliuSriuba.github.io/blob/master/images/9.jpg</ImageUrl>
+            <UPCs>
+                <UPC>923456</UPC>
+            </UPCs>
+        </Product>
+    </Products>
+</Feed>

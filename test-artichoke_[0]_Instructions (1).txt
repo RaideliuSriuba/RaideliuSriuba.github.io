@@ -1,0 +1,30 @@
+﻿
+Platform Integration Guide
+This guide is designed to provide all of the HTML needed to fully implement all the front-end features of Bazaarvoice Ratings & Reviews.  Ideally, you can copy and paste this HTML into your site’s templates and never glance at the knowledge base. 
+Directions:
+1) Work through each file following the directions line by line starting with file [1].  
+2) Message your BV Technical Consultant after you have integrated each file. 
+3) After all files have been integrated your Technical Consultant will oversee a Stage Level QA and certify the site for Production launch. 
+*The included files should provide all the info you need. If you require more detailed information, please refer to our documentation at the below link. 
+Conversations Knowledge Base: ‘http://knowledge.bazaarvoice.com/wp-content/conversations/en_US/implementation.html'
+
+
+*Credentials List:
+Company: test-artichoke         
+Username: test-artichoke
+Password: Tubeless-9
+SEO Cloudkey: 
+
+*Front-End Go-Live Steps:
+*You may deploy the same code present on the STAGE level site to the LIVE site by deleting or modifying the staging parameter found in the paths of the .js URLs. No other updates to BV front end code are required.
+*Do not update the code present on STAGE level sites. STAGE level sites should remain pointing to BV STAGING environment for QA testing purposes.
+
+
+1) PRODUCT DISPLAY PAGE, CATEGORY PAGE, CONTAINER PAGE & BV PIXEL:
+Please update features supported by the 'bv.js' script by replacing '/staging' with '/production'.
+Update from A to B.
+Please alert your Technical Consultant prior to pushing live.
+A)"https://apps.bazaarvoice.com/deployments/test-artichoke/main_site/staging/en_US/bv.js"
+B)"https://apps.bazaarvoice.com/deployments/test-artichoke/main_site/production/en_US/bv.js"
+
+	 

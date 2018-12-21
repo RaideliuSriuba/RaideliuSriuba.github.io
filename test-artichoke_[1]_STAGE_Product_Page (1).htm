@@ -1,0 +1,42 @@
+﻿<!-- STAGING PRODUCT PAGE -->
+
+	<!-- Please integrate this code into your product display pages -->
+
+	<!-- Once completed please send URL to your BV Technical Consultant for verification  -->
+
+	<!DOCTYPE html>
+
+	<html lang="en">
+
+	<head>
+
+	    <!-- Add the bv.js loader file to your HTML in the <head> tag of the page -->
+	    <script async src="https://apps.bazaarvoice.com/deployments/test-artichoke/main_site/staging/en_US/bv.js">  
+	    </script>
+
+	</head>
+
+	<body>
+
+	    <!-- Add schema.org product div making sure to wrap all BV divs -->
+	    <div itemscope itemtype="https://schema.org/Product">
+	        
+	        <!--Add itemprop="name" attribute to product name -->
+	        <h1 itemprop="name">ProductName</h1>
+
+	        <!-- Add Rating summary above the fold near product name or image. Replace "Product1" with product external ID for each product from Catalog XML Feed.  -->
+	        <div data-bv-show="rating_summary" data-bv-product-id="Product1"></div>
+	        
+	        <!--  Add the reviews div to the page where the Review text content should be displayed. Replace "Product1" with product external ID for each product from Catalog XML Feed. -->
+	        <div data-bv-show="reviews" data-bv-product-id="Product1"></div>
+
+	        <!--  Add the questions div to the page where the questions text content should be displayed. Replace "Product1" with product external ID for each product from Catalog XML Feed. -->
+
+		<div data-bv-show="questions" data-bv-product-id="Product1"></div>
+	      
+	    </div>  <!-- close schema.org div -->
+
+	</body>
+
+	</html>
+	
